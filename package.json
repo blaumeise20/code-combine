@@ -1,0 +1,32 @@
+{
+  "name": "code-combine",
+  "version": "1.0.0",
+  "description": "Small webpack-like tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "bin": {
+    "combine": "./index.js"
+  },
+  "keywords": [
+    "combine",
+    "code",
+    "combining",
+    "webpack",
+    "tool",
+    "cli",
+    "output",
+    "file",
+    "development"
+  ],
+  "author": "blaumeise20",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "filesize": "^6.1.0"
+  }
+}
