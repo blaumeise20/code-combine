@@ -10,6 +10,14 @@
   "bin": {
     "combine": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaumeise20/code-combine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blaumeise20/code-combine/issues"
+  },
+  "homepage": "https://github.com/blaumeise20/code-combine#readme",
   "keywords": [
     "combine",
     "code",
